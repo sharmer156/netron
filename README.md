@@ -38,3 +38,5 @@ Sample model files you can download and open:
 **MXNet Models**: [CaffeNet](http://data.dmlc.ml/models/imagenet/squeezenet/squeezenet_v1.1-symbol.json), [SqueezeNet v1.1](https://mxnet.incubator.apache.org/model_zoo/index.html)
 
 **TensorFlow models**: [Inception v3](https://storage.googleapis.com/download.tensorflow.org/models/inception_v3_2016_08_28_frozen.pb.tar.gz), [Inception v4](https://storage.googleapis.com/download.tensorflow.org/models/inception_v4_2016_09_09_frozen.pb.tar.gz), [Inception 5h](https://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip)
+
+other models anad introduction [MXNet Model Zoo¶](https://mxnet.incubator.apache.org/model_zoo/index.html#generative-adversarial-networks-gans)
